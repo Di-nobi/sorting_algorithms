@@ -6,7 +6,7 @@
  * @size: Size of the elements
  * Return: Nothing
  */
-void swap(int a, int b)
+void swap(size_t a, size_t b)
 {
 	int tmp;
 
