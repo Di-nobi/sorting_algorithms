@@ -30,3 +30,7 @@ Function Prototypes:
 | 105-radix_sort.c | void radix_sort(int *array, size_t size); |
 | 106-bitonic_sort.c | void bitonic_sort(int *array, size_t size); |
 | 107-quick_sort_hoare.c | void quick_sort_hoare(int *array, size_t size); |
+
+# Tasks 📜
+- **0-bubble_sort.c**: This is a function written in C that sorts an array of integers in ascending order using the Bubble Sort Algorithm.
+- **0-O**: File containing the best, average and worst case time complexity
