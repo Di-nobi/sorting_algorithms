@@ -1,5 +1,5 @@
 # SORTING ALGORITHMS & BIG O
-This is an Alogrithm project written in C by **Dinobi Udeh** during the Full Stack Software Engineering studies at ALX.
+This is an Algorithm project written in C by **Dinobi Udeh** during the Full Stack Software Engineering studies at ALX.
 
 ## Header Files
 - [sort.h](https://github.com/Di-nobi/sorting_algorithms/blob/master/sort.h): Header File containing definitions and prototypes for all functions written for the project.
