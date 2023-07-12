@@ -2,7 +2,7 @@
 This is an Alogrithm project written in C by **Dinobi Udeh** during the Full Stack Software Engineering studies at ALX.
 
 ## Header Files
-- [sort.h] (https://www.github.com/Di-nobi/sorting_alogrithms/sort.h) : Header File containing definitions and prototypes for all functions written for the project.
+- [sort.h] (https://www.github.com/Di-nobi/sorting_alogrithms/sort.h/). : Header File containing definitions and prototypes for all functions written for the project.
 Data Structure:
 ````
 typedef struct listint_s
