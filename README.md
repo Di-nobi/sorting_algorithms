@@ -2,7 +2,7 @@
 This is an Alogrithm project written in C by **Dinobi Udeh** during the Full Stack Software Engineering studies at ALX.
 
 ## Header Files
-- [sort.h](https://www.github.com/Di-nobi/sorting_alogrithms/sort.h/). : Header File containing definitions and prototypes for all functions written for the project.
+- [sort.h](https://github.com/Di-nobi/sorting_algorithms/blob/master/sort.h): Header File containing definitions and prototypes for all functions written for the project.
 Data Structure:
 ````
 typedef struct listint_s
@@ -46,9 +46,10 @@ Function Prototypes:
 
     **2-selection_sort.c**: C function that sorts an array of integers in ascending order using the Selection Sort algorithm.
     Prints the array after each swap.
+   
     **2-O**: Text file containing the best, average, and worst case time complexities of the Selection Sort algorithm, one per line.
 
-3. **Quick sort**
+4. **Quick sort**
 
     **3-quick_sort.c**: C function that sorts an array of integers in ascending order using the Quick Sort algorithm.
     Implements the Lomuto partition scheme.
@@ -56,26 +57,26 @@ Function Prototypes:
     Prints the array after each swap.
     **3-O**: Text file containing the best, average, and worst case time complexities of the Quick Sort Lomuto Partition scheme algorithm, one per line.
 
-4. **Shell sort** - Knuth Sequence
+5. **Shell sort** - Knuth Sequence
 
     **100-shell_sort.c**: C function that sorts an array of integers in ascending order using the Shell sort algorithm.
     Implements the Knuth interval sequence.
     Prints the array each time the interval is decreased.
 
-5. **Cocktail shaker sort**
+6. **Cocktail shaker sort**
 
     **101-cocktail_sort_list.c**: C function that sorts a listint_t doubly-linked list of integers in ascending order using the Cocktail Shaker Sort algorithm.
     Prints the list after each swap.
     **101-O**: Text file containing the best, average, and worst case time complexities of the Cocktail Shaker Sort algorithm, one per line.
 
-6. **Counting sort**
+7. **Counting sort**
 
     **102-counting_sort.c**: C function that sorts an array of integers in ascending order using the Counting Sort algorithm.
     Assumes that the array will only contain numbers >= 0.
     Prints the counting array after it has been initialized.
     **102-O**: Text file containing the best, average, and worst case time complexities of the Counting Sort algorithm, one per line.
 
-7. **Merge sort**
+8. **Merge sort**
 
     103-merge_sort.c: C function that sorts an array of integers in ascending order using the Merge Sort algorithm.
     Implements the top-down Merge Sort algorithm.
